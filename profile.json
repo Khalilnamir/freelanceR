@@ -1,0 +1,31 @@
+{
+  "profile_label": "Lead Data & AI Platform / Product Owner Data",
+  "experience_years": 9,
+  "location": "Île-de-France, France",
+  "daily_rate_eur_reference": 680,
+  "target_contracts": ["Freelance", "CDI convertibles en prestations", "Opportunités off-market"],
+  "target_roles": [
+    "Lead Data Platform", "Data Lead", "Product Owner Data",
+    "Data & Analytics Lead", "Data Transformation Manager",
+    "AI Product Manager", "Data Modeler", "Data Governance Consultant"
+  ],
+  "skills": [
+    "Snowflake", "dbt", "SQL", "Python", "Power BI", "Streamlit",
+    "Data Vault", "Data Lineage", "Data Governance", "LLM",
+    "Agentic AI", "Agile", "SAFe", "Product Owner", "Analytics Engineering",
+    "Data Platform", "ETL", "Roadmap", "Stakeholder Management"
+  ],
+  "sectors": ["Banque", "Finance", "Logistique", "Industrie", "Assurance", "Fintech"],
+  "positionings": {
+    "Data Platform": "Pilotage de plateforme Data, modélisation, Snowflake, dbt, SQL, Power BI et industrialisation.",
+    "Product & Transformation": "Cadrage métier, roadmap, backlog, gouvernance, coordination et delivery Data.",
+    "Data & AI": "Conception d'applications Data/IA, agents IA, Streamlit et IA générative."
+  },
+  "experience_highlights": [
+    "Lead Data Platform chez Pickup Services : roadmap Data & IA, modélisation Data Vault, Snowflake/dbt, BI et applications Streamlit.",
+    "Data & Analytics Lead chez BPCE : pipelines et tableaux de bord Data Finance / ESG.",
+    "Product Owner Data & Automation Lead à La Poste : backlog, roadmap, gouvernance et automatisation."
+  ],
+  "education": "Doctorat en Data Science & Intelligence Artificielle (2023)",
+  "privacy_note": "CV source non inclus : pas d'adresse personnelle, de téléphone ni d'email dans ce profil."
+}
